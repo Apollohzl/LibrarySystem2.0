@@ -1,0 +1,6 @@
+openpyxl
+pyzbar
+opencv-python
+qrcode
+Pillow
+maliang
